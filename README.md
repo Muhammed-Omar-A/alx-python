@@ -1,1 +1,2 @@
-# alx-python
+# alx-python 
+python is awosome
